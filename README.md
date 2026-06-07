@@ -4,6 +4,12 @@ A handheld, USB-powered virtual pet built on an ESP32-C3 SuperMini with a 128×6
 
 ---
 
+## Why I Built This
+
+What stood out to me about the original Tamagotchi was that it was both wildly popular and surprisingly simple to recreate — a tiny screen, a few buttons, and a loop that checks whether you remembered to feed something. I wanted to test my hardware skills by building one from scratch, the way it might have been done in the early 2000s: no app, no Bluetooth, just a microcontroller, an OLED, and a piezo buzzer doing all the work.
+
+---
+
 ## Features
 
 - **3 selectable pixel-art pets** — Mochi (round kitten), Pip (big-eared fox-cat), Bean (sleepy chubby cat)
