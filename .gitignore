@@ -1,0 +1,21 @@
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arduino IDE temp files
+*.lst
+*.d
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Arduino IDE project files (auto-generated)
+*.ino.globals.h
